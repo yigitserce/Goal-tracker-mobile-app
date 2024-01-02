@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "641366351400",
+    "project_id": "personal-asistant-934ad",
+    "storage_bucket": "personal-asistant-934ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641366351400:android:8283c53ca1b422c519df1d",
+        "android_client_info": {
+          "package_name": "com.example.personal_asistant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2NlIq9tK584_v6KJ6Py2h4lu3Eq54eRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
